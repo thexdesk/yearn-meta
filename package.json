@@ -16,6 +16,6 @@
     "ethers": "^5.4.3",
     "fs-extra": "^9.1.0",
     "node-fetch": "^2.6.1",
-    "prettier": "^2.2.1"
+    "prettier": "^2.4.1"
   }
 }
